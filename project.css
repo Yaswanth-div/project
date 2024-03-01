@@ -1,0 +1,148 @@
+.main-container{
+    border: 2px solid rgb(0, 0, 0);
+  height: 700px;  
+  width:1500px;
+  overflow:hidden;
+}
+.ximg{
+    color: white;
+    font-size: 380px;
+    margin-top: 175px;
+    margin-left: 200px;
+   
+}
+.main-heading{
+    font-size: 70px;
+    color:rgb(255, 255, 255);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    margin-left: 950px;
+    margin-top: -500px;
+}
+.main-heading2{
+    font-size: 50px;
+    color:rgb(255, 255, 255);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:bold;
+    margin-left:950px;
+    margin-top:-500px;
+}
+.box1{
+    border-radius: 50px;
+    border-color: white;
+    height: 35px;
+    width:320px;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 950px;
+    margin-top: -500px;
+    
+}
+.gimg2{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left:-300px;
+    top: 6px;
+    cursor: pointer;
+}
+
+.apple1{
+    font-size: 27px;
+    position: relative;
+    left:1020px;
+    top: -64px;
+    color:black;
+}
+.underline{
+    position: relative;
+    font-size: 20px;
+    left:979px;
+    top:-115px;
+    color: rgba(140, 136, 136, 0.849);
+}
+.underline2{
+    position: relative;
+    font-size: 20px;
+    left:1140px;
+    top:-187px;
+    color: rgba(140, 136, 136, 0.849);
+}    
+.middletext{
+    position: relative;
+    font-size:20px;
+    left:1105px;
+    top:-255px;
+}
+.button1{
+    border-radius:30px;
+    border-color: rgb(19, 171, 231);;
+    height:37px;
+    width:320px;
+    position: relative;
+    left:955px;
+    top:-295px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(19, 171, 231);
+    cursor: pointer;
+}
+.para1{
+    font-size:10px;
+    font-style:oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position:relative;
+    left: 960px;
+    top: -290px;
+    
+}
+.para2{
+    font-size:20px;
+    position:relative;
+    left: 960px;
+    top: -280px;
+    
+}
+.button2{
+    border-radius:30px;
+    border-width:0px;
+    height:37px;
+    width:320px;
+    position: relative;
+    left:955px;
+    top:-310px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 166, 255);
+    border: 2px solid rgb(77, 76, 76);
+    background-color: black;
+    cursor: pointer;
+    
+   
+}
+.button3{
+    background-color: rgb(255, 255, 255);
+border-radius: 50px;
+border-color: white;
+height: 37px;
+width:320px;
+font-size: 15px;
+text-align: center;
+position: relative;
+left: 955px;
+top: -20pzpx;
+cursor: pointer;
+    }
+  
+.lastline{
+    font-size:small;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(108, 108, 108);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    top: -290px;
+}    
